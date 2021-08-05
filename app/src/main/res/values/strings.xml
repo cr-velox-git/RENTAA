@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RENTAA</string>
+
+    <string-array name="cityList">
+        <item>select</item>
+        <item>malkangiri</item>
+        <item>jeypore</item>
+        <item>mathili</item>
+    </string-array>
+
+    <string-array name="flatList">
+        <item>1 BHK</item>
+        <item>2 BHK</item>
+        <item>3 BHK</item>
+        <item>FAMILY</item>
+    </string-array>
+</resources>
